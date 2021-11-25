@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sbd367
-- 👀 I’m interested in creating and working on full-stack Node JS applications using technologies such as (Express, mysql, Discord.js, React(Redux), Angular)... I've also had some time dabbleing in Ruby on Rails and Python
+- 👀 I’m interested in creating and working on full-stack Node JS applications using technologies such as (Express, mysql, Discord.js, React(Redux), Angular)... I've also had some time dabbleing in Ruby on Rails and Python.
 - 🌱 I’m currently learning more on working with Redux and dipping my toes in Tensorflow.
 - 💞️ I’m looking to collaborate on pretty much anything until I have something to do.
 - 📫 How to reach me via my email bergboost@gmail.com
